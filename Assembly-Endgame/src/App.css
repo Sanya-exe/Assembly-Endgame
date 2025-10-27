@@ -1,0 +1,30 @@
+*{
+  border-spacing: border-box;
+}
+
+body{
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+  font-family: 'RHanken Grotesk', sans-serif;
+  background-color: #262626;
+  color: #d6d6d6;
+  display: flex;
+  justify-content: center;
+}
+
+header{
+  text-align: center;
+}
+
+header h1{
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #f9f4da;
+}
+
+header > p{
+  font-size: 0.875rem;
+  color: #8e8e8e;
+  max-width: 350px;
+}
