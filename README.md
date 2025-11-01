@@ -1,5 +1,5 @@
 ## **Overview:**
-Assembly Endgame challenges you to guess a secret programming-related word before the programming world falls into chaos!
+Assembly Endgame challenges you to guess a  word before the programming world falls into chaos!
 Each wrong guess eliminates one programming language until only Assembly remains — lose the game, and Assembly takes over!
 
 ## **Features:**
