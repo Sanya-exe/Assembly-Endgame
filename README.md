@@ -12,7 +12,6 @@ Each wrong guess eliminates one programming language until only Assembly remains
 7.Accessible and keyboard-friendly UI
 
 ## **Technologies Used:**
-- **Category   ->	Tools**
 - **Frontend    ->	React (Hooks: useState, useEffect, Context API)**
 - **Styling	CSS ->  (Responsive Design, Conditional Classes via clsx)**
 - **Animation   ->	react-confetti for victory effects**
