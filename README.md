@@ -3,21 +3,21 @@ Assembly Endgame challenges you to guess a secret programming-related word befor
 Each wrong guess eliminates one programming language until only Assembly remains — lose the game, and Assembly takes over!
 
 ## **Features:**
-.Interactive word-guessing gameplay
-.Tracks correct and incorrect guesses
-.Programming-language “health bar” that depletes with each mistake
-.Confetti animation when the player wins
-.Anti-confetti / visual cue when the player loses
-.“New Game” button to restart anytime
-.Accessible and keyboard-friendly UI
+1.Interactive word-guessing gameplay
+2.Tracks correct and incorrect guesses
+3.Programming-language “health bar” that depletes with each mistake
+4.Confetti animation when the player wins
+5.Anti-confetti / visual cue when the player loses
+6.“New Game” button to restart anytime
+7.Accessible and keyboard-friendly UI
 
 ## **Technologies Used:**
-.Category   ->	Tools
-Frontend    ->	React (Hooks: useState, useEffect, Context API)
-Styling	CSS ->  (Responsive Design, Conditional Classes via clsx)
-Animation   ->	react-confetti for victory effects
-Build Tool  ->	Vite
-Deployment  ->	Netlify / GitHub Pages compatible
+- **Category   ->	Tools**
+- **Frontend    ->	React (Hooks: useState, useEffect, Context API)**
+- **Styling	CSS ->  (Responsive Design, Conditional Classes via clsx)**
+- **Animation   ->	react-confetti for victory effects**
+- **Build Tool  ->	Vite**
+- **Deployment  ->	Netlify / GitHub Pages compatible**
 
 ## **Installation & Setup:**
 
