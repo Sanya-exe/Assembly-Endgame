@@ -13,7 +13,7 @@ Each wrong guess eliminates one programming language until only Assembly remains
 
 ## **Technologies Used:**
 - **Frontend    ->	React (Hooks: useState, useEffect, Context API)**
-- **Styling	CSS ->  (Responsive Design, Conditional Classes via clsx)**
+- **Style	 ->  CSS**
 - **Animation   ->	react-confetti for victory effects**
 - **Build Tool  ->	Vite**
 - **Deployment  ->	Netlify / GitHub Pages compatible**
